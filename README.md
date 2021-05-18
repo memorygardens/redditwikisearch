@@ -1,1 +1,1 @@
-# redditwikisearch
+# wikisearch
